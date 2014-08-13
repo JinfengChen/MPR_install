@@ -1,0 +1,11 @@
+Package: MPR
+Type: Package
+Title: Inferring parental genotypes and parent-independent genotyping for constructing ultra-high density linkage map based on population sequencing
+Version: 0.1
+Date: 2010-02-26
+Author: Weibo Xie <xwbcn@webmail.hzau.edu.cn> and Qifa Zhang <qifazh@mail.hzau.edu.cn>
+Maintainer: Weibo Xie <xwbcn@webmail.hzau.edu.cn>
+Description: This package provides methods to infer parental genotypes based on low-coverage population sequencing data and thus can genotype mapping populations and constructe ultra-high density linkage map in a parent-independent manner.
+License: GPL version 2 or newer
+Depends: genefilter
+LazyLoad: yes
